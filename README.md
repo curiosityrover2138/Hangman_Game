@@ -1,22 +1,22 @@
-# Hangman_Game
+# Hangman Game
 
 
-#How To Play The Game
+How To Play The Game:
 
 Select a letter to figure out a hidden word in a set amount of chances
 
-Project Specifications
+Project Specifications:
 
-Display hangman pole and figure using SVG
+1. Display hangman pole and figure using SVG
 
-Generate a random word
+2. Generate a random word
 
-Display word in UI with correct letters
+3. Display word in UI with correct letters
 
-Display wrong letters
+4. Display wrong letters
 
-Show notification when select a letter twice
+5. Show notification when select a letter twice
 
-Show popup on win or lose
+6. Show popup on win or lose
 
-Play again button to reset game
+7. Play again button to reset game
